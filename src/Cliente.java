@@ -1,13 +1,1 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author TRV01
- */
-public class Cliente {
-    
-}
+Todo se encuentra en la carpeta de arriba, lo que sucedio es que cree una clase en Source Packages con nombre "Cliente" pero fue un error al momento de quererla crearla en "DemoHerencia2"
